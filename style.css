@@ -64,7 +64,7 @@ h1 {
     height: 100%;
     flex-direction: column;
     justify-content: center;
-    padding-top: 5rem;
+    padding-top: 8rem;
     padding-bottom: 2rem;
 }
 @media screen and (max-width: 628px){
@@ -81,11 +81,11 @@ h1 {
     flex-grow: 5;
 }
 .container .logo {
-    margin-top: 5rem;
+    margin-top: 7rem;
     text-align: center;
 }
 .container .logo img {
-    max-width: 150px;
+    max-width: 170px;
 }
 .buttons {
     width: 100%;
