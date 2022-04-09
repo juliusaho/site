@@ -64,7 +64,7 @@ h1 {
     height: 100%;
     flex-direction: column;
     justify-content: center;
-    padding-top: 8rem;
+    padding-top: 3rem;
     padding-bottom: 2rem;
 }
 .container .header {
@@ -79,7 +79,7 @@ h1 {
 }
 .buttons {
     width: 100%;
-    margin-bottom: 8rem;
+    margin-bottom: 2rem;
     flex-wrap: wrap;
 }
 .buttons.mobile {
